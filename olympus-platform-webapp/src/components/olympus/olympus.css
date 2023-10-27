@@ -1,0 +1,45 @@
+  .mask {
+    background: 
+    linear-gradient(
+      45deg,
+    rgba(33, 33, 33, 0.7),
+    rgba(33, 33, 33, 0.7) 100%
+    );
+  }
+
+  video {
+    min-width: 100%; 
+    min-height: 100%;
+  }
+
+  .tittle {
+    color: #fff;
+    text-shadow: #efb810 0.1em 0.1em 0.2em;
+  }
+
+  .subtitle {
+    color: #efb810;
+    text-shadow: 0.1em 0.1em #333;
+  }
+
+  .main-header {
+    position: relative;
+    background-size: cover;
+    min-height: 700px;
+  }
+
+  .background-overlay {
+    background: rgba(40, 40, 40,.7);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .team {
+    background: #141414;
+  }
+
+  .communities {
+    background: #efb810;
+  }

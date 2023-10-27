@@ -1,0 +1,13 @@
+package com.olympus.platform;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OlympusBackendApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OlympusBackendApplication.class, args);
+	}
+
+}

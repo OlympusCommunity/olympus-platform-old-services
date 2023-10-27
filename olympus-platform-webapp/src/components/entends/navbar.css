@@ -1,0 +1,11 @@
+.navbar .nav-link {
+    color: #fff !important;
+}
+
+.gris{
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.top-nav-collapse{
+    background: rgba(0, 0, 0, 0.5) !important;
+}
